@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"		"Falcon's Optimizer”
+	"version"		“1.0.0”
+	"up_date"		"2025"
+	"author_name"	"Falcon"
+	"info"		"The Optimization Utility significantly improves server and client performance."
+}
